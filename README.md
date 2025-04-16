@@ -218,6 +218,13 @@ const dineth = {
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dinethnethsara&theme=radical&hide_border=true&bg_color=0D1117" alt="Wakatime Stats" />
 </div>
 
+```text
+💻 Programming Time: 42 hours 18 minutes
+⭐ Most Used Languages: JavaScript (48%), Python (22%), TypeScript (18%)
+🔥 Favorite Project: PlayPulse Hosting v2.0
+📚 Learning Focus: Advanced ML algorithms & Cloud Architecture
+```
+
 ## <div align="center">🌱 Current Quests</div>
 
 <div align="center">
@@ -399,14 +406,4 @@ const dineth = {
   <sub>✨ If you found my profile interesting, consider giving it a star! ✨</sub><br />
   <sup>Created with 💖 by Dineth Nethsara | Last updated: April 2025</sup><br />
   <sub>Coded with pride in Sri Lanka 🇱🇰</sub>
-</div>logoColor=white&labelColor=black" /></a>
-  <a href="mailto:dinethnethsara@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk!-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" /></a>
-  <a href="https://playpulsehosting.com"><img src="https://img.shields.io/badge/Website-PlayPulse-%23FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=black" /></a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-  
-  <sub>✨ If you found my profile interesting, consider giving it a star! ✨</sub><br />
-  <sup>Created with 💖 by Dineth Nethsara | Last updated: March 2025</sup>
 </div>
